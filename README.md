@@ -1,5 +1,5 @@
 # Azure Container Apps Samples
-Microsoft Build 2022 で GA された Azure Container Apps について、MVP パーソナルスポンサーとして提供するサンプルコードです。
+Microsoft Build 2022 で GA された Azure Container Apps のサンプルコードです。
 
 ## Blue-Green Deployments
 Azure Container Apps の Revision を利用して Blue-Green Deployments を行うサンプルコードです。
