@@ -13,7 +13,7 @@ Azure Container Apps で KEDA を使って Azure Queue Storage のバックグ�
 
 - [KEDA background processing](https://github.com/thara0402/keda-worker)
 
-サンプルコードの解説については、[こちら](https://gooner.hateblo.jp/entry/2021/11/17/120356)のブログを参照してください。
+サンプルコードの解説については、[こちら](https://gooner.hateblo.jp/entry/2022/06/14/073119)のブログを参照してください。
 
 ## Dapr sidecar によるマイクロサービス
 Azure Container Apps で Dapr sidecar を使ってバックエンドサービスを呼び出します。
