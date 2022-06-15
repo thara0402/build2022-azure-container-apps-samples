@@ -21,7 +21,7 @@ Azure Container Apps で Dapr sidecar を使ってバックエンドサービス
 - [Dapr Front-End Web Application](https://github.com/thara0402/dapr-frontend)
 - [Dapr Back-End Web Api](https://github.com/thara0402/dapr-backend)
 
-サンプルコードの解説については、[こちら](https://gooner.hateblo.jp/entry/2021/11/13/155331)のブログを参照してください。
+サンプルコードの解説については、[こちら](https://gooner.hateblo.jp/entry/2022/06/15/101209)のブログを参照してください。
 
 ## License
 © 2022 Toshiyuki Hara All rights reserved.  
